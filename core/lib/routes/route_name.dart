@@ -1,0 +1,42 @@
+abstract class RouteName {
+  static const page = "/";
+  static const splash = "/splash";
+  static const login = "/login";
+  static const home = "/home";
+  static const otp = "/otp";
+  static const unknown = "/unknown";
+  static const profile = "/profile";
+  static const profileBank = "/profilebank";
+  static const profileCourier = "/profile/courier";
+  static const profileProduct = "/profile/product";
+  static const profileDocument = "/profile/document";
+  static const profileBalance = "/profile/balance";
+  static const profileWithdraw = "/profile/withdraw";
+  static const profileReview = "/profile/review";
+  static const profileUser = "/profile/user";
+  static const profileUserEdit = "/profile/user/edit";
+  static const profileStore = "/profile/store";
+  static const profileStoreProfile = "/profile/store/profile";
+  static const profileStoreEdit = "/profile/store/edit";
+  static const profileStoreRegister = "/profile/store/register";
+  static const storeInventory = "/store/inventory";
+  static const storeInventoryAdd = "/store/inventory/add";
+  static const cart = "/cart";
+  static const directBuy = "/cart/direct";
+  static const paymentWebView = "/payment";
+  static const transactionList = "/transaction";
+  static const transactionDetail = "/transaction/detail";
+  static const storeProductDetail = "/store/product/detail";
+  static const storeProductReview = "/store/product/review";
+  static const storeProductReviewImage = "/store/product/review-image/";
+  static const storeProductReviewImageAll = "/store/product/review-image/all";
+  static const storefront = "/storefront";
+  static const shipping = "/shipping";
+  static const search = "/search";
+  static const wishlist = "/wishlist";
+  static const storefrontReview = "/storefront/merchant/review";
+  static const notification = "/notification";
+
+  static const createQuotation = "/quotation/create";
+  static const recentQuotation = "/quotation/recent";
+}

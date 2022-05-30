@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+import '../../theme.dart';
+
+class ButtonSolidBlue extends StatelessWidget {
+
+  final String? text;
+  final VoidCallback? onPressed;
+
+  const ButtonSolidBlue({Key? key, this.text, this.onPressed}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+  return SizedBox(
+    height: 46,
+    width: double.infinity,
+    child: ElevatedButton(
+      onPressed: onPressed, 
+      child: Padding(
+        padding: const EdgeInsets.all(10),
+        child: Text(text!, 
+          style: buttonTextStyle1
+        ),
+      ),
+      style: buttonSolidBlue
+      )
+    );
+  }
+}

@@ -1,16 +1,16 @@
-# halanesia
+# Halanesia Ecommerce App (Mobile App) Using Flutter
 
-A new Flutter project.
+Local Database - Hive Database</br>
+State Management - GetX</br>
 
-## Getting Started
+<p float="left">
+  <img alt="home" src="https://i.ibb.co/NmCg762/Screenshot-20220530-113705.png" height="400" />
+  <img alt="home" src="https://i.ibb.co/Tc5psb2/Screenshot-20220530-113810.png" height="400" />
+</p>
 
-This project is a starting point for a Flutter application.
+<p float="left">
+  <img alt="home" src="https://i.ibb.co/XCZSGXB/Screenshot-20220530-113914.png" height="400" />
+  <img alt="home" src="https://i.ibb.co/GJPp6cj/Screenshot-20220530-113920.png" height="400" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
